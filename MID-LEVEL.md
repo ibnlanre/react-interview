@@ -1,0 +1,36 @@
+## INTERVIEW QUESTIONS
+
+- What are higher-order components (HOCs) and how do they work in React?
+- Explain the concept of React context and when would you use it?
+- What is the purpose of the useEffect hook in React?
+- State the difference between a pure and impure component?
+- How do you handle form input validation in React?
+- How do you handle routing in a React application?
+- What is Redux and how does it work with React?
+- Explain the concept of React memoization.
+- Explain the concept of a Provider in a React application?
+- What are controlled and uncontrolled components in React?
+- How do you handle asynchronous operations in React?
+- What is the difference between client-side and server-side rendering?
+- How do you optimize performance in React applications?
+- How do you handle state management in React without using Redux?
+- What other function does the key prop perform asides identification?
+- Describe the process of integrating third-party libraries or APIs?
+- What are React refs and when would you use them?
+- Explain the concept of React context API and its use cases.
+- Explain the concept of code splitting in React and its benefits?
+- What is the purpose of the useCallback hook in React?
+- How do you handle authentication and authorization in React?
+- Explain the concept of React memo and its benefits.
+- What are the different ways to style React components?
+- How do you handle data fetching in React?
+- How do you handle code organization and project structure in React?
+- Describe the process of making API calls in React and handling asynchronous operations.
+
+## MARKING SCHEME
+
+- SEO: Can apply basic SEO principles in a React application.
+- Responsiveness: Can create fully responsive UIs, understands mobile-first design.
+- TypeScript: Can use TypeScript with React, understands basic types, interfaces, generics.
+- Theming: Can implement a theme switcher, understands CSS-in-JS libraries like styled-components.
+- Testing: Writes comprehensive unit tests, understands test-driven development.
