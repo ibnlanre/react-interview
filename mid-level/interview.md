@@ -1,4 +1,4 @@
-## INTERVIEW QUESTIONS
+# INTERVIEW QUESTIONS
 
 - What are higher-order components (HOCs) and how do they work in React?
 - Explain the concept of React context and when would you use it?
@@ -26,11 +26,3 @@
 - How do you handle data fetching in React?
 - How do you handle code organization and project structure in React?
 - Describe the process of making API calls in React and handling asynchronous operations.
-
-## MARKING SCHEME
-
-- SEO: Can apply basic SEO principles in a React application.
-- Responsiveness: Can create fully responsive UIs, understands mobile-first design.
-- TypeScript: Can use TypeScript with React, understands basic types, interfaces, generics.
-- Theming: Can implement a theme switcher, understands CSS-in-JS libraries like styled-components.
-- Testing: Writes comprehensive unit tests, understands test-driven development.
