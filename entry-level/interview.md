@@ -20,3 +20,67 @@
 - How do you handle error boundaries in React?
 - How do you handle component re-rendering in React?
 - What is a ref and how do you create one in React?
+- What is the virtual DOM?
+- What are the diff between virtual DOM and DOM?
+- What do you understand when we talk about Render in React?
+- Explain the concept of Components in React
+- What are props in React and what are the main differences with state?
+- How can you update the state of a component?
+- What are synthethic events in React?
+- What are refs in React, give an example of when would you use one.
+- How does React render process work?
+- How can you reuse logic in functional components?
+- What are keys in React and why are they important?
+- What is the difference between a controlled and uncontrolled component in React?
+- Explain the main difference between server side rendering and client side rendering in React
+- How would you avoid unnecessary renders in a React component?
+- What is a Portal in React?
+- State the main difference between useEffect and useLayoutEffect
+- Where do you usually fetch data in React?
+- What are hooks in React?
+- How do you perform code splitting in React?
+- What is the difference between a class component and a functional component?
+- How do you handle errors in React?
+- What is lifting state up in React?
+- What is prop-drilling, and how you can avoid it?
+- How can you reset a component’s state to it’s initial state?
+- Explain the difference between useState and useEffect.
+- If you have to set a key value in a component, from where would you get that value?
+- What does DOM stand for?
+- What is the difference between HTML and DOM?
+- How does React use the DOM?
+- How does virtual DOM work?
+- What is the difference between virtual DOM and shadow DOM?
+- What is React Fiber?
+- What is the main goal of React Fiber?
+- What is the difference between React Fiber and Virtual DOM?
+- Explain the concept of reconciliation in React.
+- What is the difference between React and ReactDOM?
+- What is JSX?
+- Can browsers read JSX directly?
+- What is the difference between Element and Component?
+- What is the difference between state and props?
+- What are the different phases of component lifecycle?
+- What are the lifecycle methods of React?
+- What are Higher-Order Components?
+- What is the difference between a Presentational component and a Container component?
+- What is Flux?
+- What is Redux?
+- What is the difference between Redux and Flux?
+- What are the core principles of Redux?
+- Can component re-render without setState() being called?
+- What is the purpose of callback function as an argument of setState()?
+- What is the difference between HTML and React event handling?
+- What are synthetic events in React?
+- What is inline conditional expressions?
+- What are “key” props and what is the benefit of using them in arrays of elements?
+- What is the use of refs?
+- What are forward refs?
+- What is render hijacking in React?
+- What is children prop?
+- How do you implement try catch in JSX?
+- What is concurrent rendering in React?
+- What is state persistence in React?
+- What is state mutation in React and how can you avoid it?
+- What is the difference between Shallow Rendering and Static Rendering of components?
+- What is the purpose of using super(props)?
